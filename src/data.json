@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "menu": "Match Cappucinno",
+    "price": "$6.49",
+    "logo": "../images/matchaCappucino.jpg",
+    "postedAt": "1d ago",
+    "temperature": ["Cold", "Hot"]
+  },
+    {
+    "id": 2,
+    "menu": "Cafe Latte",
+    "price": "$5.49",
+    "logo": "../images/caffeLatte.jpg",
+    "postedAt": "2d ago",
+    "temperature": ["Cold", "Hot"]
+  }
+]
